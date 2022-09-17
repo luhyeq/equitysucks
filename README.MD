@@ -5,11 +5,11 @@
 class About_me:
     def __init__(self):
         self.desc = '''
-	   I'm alight aka soul a self taught developer.
+	   I'm khai a self taught developer.
            I am currently interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
         '''
 	
-	self.age = "13"
+	self.age = "14"
 	self.net_worth = "$500.00+"
 	self.sports = "Basketball, Track"
 	self.hireable = "True"
@@ -19,14 +19,10 @@ class About_me:
         self.cpu = 'Intel Core i3'
 	
         self.languages = ['Python', 'HTML', 'CSS', 'Javascript']
-        self.learning = 'PHP, SQL, Extremely Advanced Python'
+        self.learning = 'Golang, SQL, Advanced Python'
 	self.in_development = 'Null'
 	   
 ```
-
-<h2> Connect With Me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/uwbie'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-<a href = 'https://www.github.com/khai2rich'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
 <h2> Some Nifty GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
