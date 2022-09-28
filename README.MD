@@ -6,12 +6,12 @@ class About_me:
     def __init__(self):
         self.desc = '''
 	   I'm khai a self taught developer.
-           I am currently interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
+           I am interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
         '''
 	
 	self.age = "14"
 	self.net_worth = "$500.00+"
-	self.sports = "Basketball, Track"
+	self.sports = "Basketball, Track, Swimming"
 	self.hireable = "True"
 	
         self.os = 'Windows 10 Pro'
@@ -19,7 +19,7 @@ class About_me:
         self.cpu = 'Intel Core i3'
 	
         self.languages = ['Python', 'HTML', 'CSS', 'Javascript']
-        self.learning = 'Golang, SQL, Advanced Python'
+        self.learning = 'Golang, SQL, Javascript'
 	self.in_development = 'Null'
 	   
 ```
