@@ -2,7 +2,7 @@
 <h2> About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2> 
 
 ```py
-class desc:
+class desc():
     def __init__(self):
         self.desc = '''
 	   I'm khai a self taught developer.
