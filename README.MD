@@ -18,8 +18,8 @@ class desc():
         self.ram = '8 GB'
         self.cpu = 'Intel Core i3'
 	
-        self.languages = ['Python', 'HTML', 'CSS', 'Javascript']
-        self.learning = 'Golang, SQL, Javascript'
+        self.languages = ['Python', 'HTML', 'CSS', 'Javascript', 'SQLite']
+        self.learning = 'Golang, SQLite, Javascript'
 	self.in_development = 'Null'
 	
 	
