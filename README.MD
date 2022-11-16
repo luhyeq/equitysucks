@@ -4,6 +4,7 @@
 ```py
 class desc():
     def __init__(self):
+    	self.contact = ['software#1337', 't.me/shriveling']
         self.desc = '''
 	   I'm khai a self taught developer.
            I am interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
