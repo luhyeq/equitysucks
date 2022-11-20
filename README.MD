@@ -20,7 +20,7 @@ class desc():
         self.cpu = 'Intel Core i3'
 	
         self.languages = ['Python', 'HTML', 'CSS', 'Javascript', 'SQLite']
-        self.learning = 'Golang, SQLite, Javascript'
+        self.learning = 'Golang, SQLite, Javascript', 'More Python', 'Full Stack Web Development'
 	self.in_development = 'Null'
 	
 	
