@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/khai2rich?v=3)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=khai1337&color=0E9C47&style=for-the-badge">
 <h2> About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2> 
 
 ```py
@@ -27,7 +28,6 @@ class desc():
 if __name__ == "__main__":
     desc()
 ```
-
 
 <h2> Some Nifty GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
