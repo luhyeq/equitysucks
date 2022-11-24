@@ -1,6 +1,9 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=khai1337&color=0E9C47&style=for-the-badge">
-<h2> About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2> 
+    <a href="discord://-/users/995021078428663889">
+        <img src="https://lanyard-profile-readme.vercel.app/api/995021078428663889?bg=0000000&borderRadius=0&idleMessage=%20"/>
+    </a>
+</p>
+<h2 align="center"> About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2> 
 
 ```py
 class desc():
@@ -29,10 +32,10 @@ if __name__ == "__main__":
     desc()
 ```
 
-<h2> Some Nifty GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2 align="center"> Some Nifty GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=khai1337&count_private=true&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khai1337&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khai1337&theme=radical" />
