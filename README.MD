@@ -6,7 +6,7 @@
 ```py
 class desc():
     def __init__(self):
-    	self.contact = ['kh#1337', 't.me/shrivelling']
+    	self.contact = ['kh#1337', 't.me/shrivelling', 'alight2rich@proton.me']
         self.desc = '''
 	   I'm khai a self taught developer.
            I am interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
