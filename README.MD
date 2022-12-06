@@ -12,7 +12,7 @@ class desc():
            I am interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
         '''
 	
-	self.age = "14"
+	self.age = "13
 	self.net_worth = "$500.00+"
 	self.sports = "Basketball, Track, Swimming"
 	self.hireable = "True"
