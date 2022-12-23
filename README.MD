@@ -12,10 +12,10 @@ class desc():
            I am interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
         '''
 	
-	self.age = "13
+	self.age = 13
 	self.net_worth = "$500.00+"
 	self.sports = "Basketball, Track, Swimming"
-	self.hireable = "True"
+	self.hireable = True
 	
         self.os = 'Windows 10 Pro'
         self.ram = '8 GB'
@@ -23,7 +23,7 @@ class desc():
 	
         self.languages = ['Python', 'HTML', 'CSS', 'Javascript', 'SQLite']
         self.learning = 'Golang, SQLite, Javascript', 'More Python', 'Full Stack Web Development'
-	self.in_development = 'Null'
+	self.in_development = None
 	
 	
 if __name__ == "__main__":
