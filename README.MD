@@ -1,6 +1,5 @@
 ```py
 import random
-from random import choice
 
 class desc():
     def __init__(self):
