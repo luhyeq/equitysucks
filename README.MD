@@ -3,7 +3,7 @@ from random import choice
 
 class desc():
     def __init__(self):
-    	self.contact = ['kh#1337', 't.me/clucked', 'alight2rich@proton.me']
+    	self.contact = ['kh#1337', 't.me/clucked', 'software@fbi.ac']
         self.desc = f'''
 	   I'm khai a self taught developer.
            I am interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
@@ -32,5 +32,5 @@ if __name__ == "__main__":
 
 <p align="center">
     <a href="discord://-/users/995021078428663889">
-        <img src="https://lanyard-profile-readme.vercel.app/api/995021078428663889?bg=0000000&borderRadius=0&idleMessage=%20"/>
+        <img src="https://lanyard-profile-readme.vercel.app/api/717804556758548522?bg=0000000&borderRadius=0&idleMessage=%20"/>
     </a>
