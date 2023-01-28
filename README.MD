@@ -29,8 +29,3 @@ class desc():
 if __name__ == "__main__":
     desc()
 ```
-
-<p align="center">
-    <a href="discord://-/users/995021078428663889">
-        <img src="https://lanyard-profile-readme.vercel.app/api/717804556758548522?bg=0000000&borderRadius=0&idleMessage=%20"/>
-    </a>
