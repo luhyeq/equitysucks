@@ -6,7 +6,7 @@ class desc():
     	self.contact = ['kh#1337', 't.me/clucked', 'software@fbi.ac']
         self.desc = f'''
 	   I'm khai a self taught developer.
-           I am interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
+           I am interested in Cyber Security (Ethical Hacking), Artifical Intelligence & API Exploitation.
 	   Feel free to contact me through {choice(self.contact)}
         '''
 	
