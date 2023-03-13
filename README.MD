@@ -19,7 +19,7 @@ class desc():
         self.ram = '8 GB'
         self.cpu = 'Intel Core i3'
 	
-        self.languages = ['Python', 'HTML', 'CSS', 'Javascript', 'SQLite']
+        self.languages = ['Python', 'HTML', 'CSS', 'Javascript']
 	self.cloud_plats = ['Heroku', 'Netlify']
 	self.database = ['MongoDB', 'SQLite']
         self.learning = 'Golang, SQLite, Javascript', 'More Python', 'Full Stack Web Development'
