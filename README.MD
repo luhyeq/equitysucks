@@ -7,7 +7,7 @@ class desc():
         self.desc = f'''
 	   I'm khai a self taught developer.
            I am interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
-	   Feel free to contact me through {random.choice(self.contact)}
+	   Feel free to contact me through {choice(self.contact)}
         '''
 	
 	self.age = 13
