@@ -9,7 +9,6 @@ class aboutMe():
             'Discord: equity#0001',
             'Telegram: t.me/secluding'
             ]
-        
         print(random.choice(self.contacts))
 
         self.languages = [
