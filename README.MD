@@ -6,14 +6,17 @@ from github import read_me
 class aboutMe():
     def __init__(self):
         self.contacts = [
-            'Discord: equity#0001',
-            'Telegram: t.me/secluding'
+            'Discord: equ.ty',
+            'Telegram: t.me/elixades' #Slow Response
             ]
         print(random.choice(self.contacts))
 
         self.languages = [
-            'Python',
-            'HTML', 'CSS', 'Javascript'
+            'Python'
+            ]
+        self.learning = [
+            'Javascript'
+            'GoLang'
             ]
         for lang in self.languages:
             print(lang)
